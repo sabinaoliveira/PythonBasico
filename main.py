@@ -14,3 +14,8 @@
 # def greeting(name):
 #     print("Boas vindas, " + name + "!!!")
 # greeting("sabina")
+
+a = 2
+b = 3
+c = 5
+print(c==a+b)
